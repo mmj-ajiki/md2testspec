@@ -1,0 +1,18 @@
+# XYZ Test Specifications
+
+## Introduction
+
+### Purposes
+
+### Test Period
+
+### Important Points
+
+## Testing Environment
+
+### Test Devices and OS Versions
+
+### Test Accounts
+
+### Test Data
+
